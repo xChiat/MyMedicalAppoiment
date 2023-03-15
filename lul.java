@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class mainxd {
+public class lul{
     public static void main(String  args[]){
         xd myXd = new xd();
         System.out.println("seleccione el numero del mes: ");
